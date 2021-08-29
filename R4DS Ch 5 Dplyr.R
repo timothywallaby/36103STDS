@@ -86,3 +86,6 @@ transmute(data, newvar = x + y)  #will only keep new variable
 
   #tips:, %/% is integer division, %% is modulus (remainder)
 
+?relocate
+
+
